@@ -25,3 +25,5 @@ This will install it into your virtual environment and to remove do:
 `data = client.repository.fetch('shashank-sharma', 'mythical-feedback')`
 
 Now you'll get the data
+
+also you have to pip install a package name fpdf
